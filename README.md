@@ -1,1 +1,2 @@
-# Projekti2024kev-t_bankautomat
+# SPO_Group15
+<img src="ER_kaavio.png">
